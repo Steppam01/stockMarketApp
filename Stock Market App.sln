@@ -14,6 +14,9 @@ EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		Stock Market App\Stock_Market_App\Stock_Market_App.projitems*{1cdfaa3f-8983-498f-9f90-f9554e543b29}*SharedItemsImports = 13
+		Stock Market App\Stock_Market_App\Stock_Market_App.projitems*{52cf9425-b0a6-443f-86fd-790d72589ea8}*SharedItemsImports = 4
+		Stock Market App\Stock_Market_App\Stock_Market_App.projitems*{547a928b-3c10-4f1f-a309-eb18eb9c7e77}*SharedItemsImports = 4
+		Stock Market App\Stock_Market_App\Stock_Market_App.projitems*{7e43d587-11a2-4ec4-8401-e16669976f45}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
